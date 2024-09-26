@@ -49,6 +49,7 @@ def is_even(n: int):
 
 print(MH_ASCII_ART)
 print('Hello from Michigan Hackers!')
+print('This is coming from Sam K')
 print('Learn more: https://www.youtube.com/watch?v=dQw4w9WgXcQ')
 num1 = int(input("input your 1st favorite number: "))
 num2 = int(input("input your 2nd favorite number: "))
